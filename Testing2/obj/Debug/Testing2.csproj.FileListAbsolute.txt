@@ -1,0 +1,7 @@
+C:\Users\tarna\source\repos\Testing2\bin\Debug\Testing2.exe.config
+C:\Users\tarna\source\repos\Testing2\bin\Debug\Testing2.exe
+C:\Users\tarna\source\repos\Testing2\bin\Debug\Testing2.pdb
+C:\Users\tarna\source\repos\Testing2\obj\Debug\Testing2.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\Testing2\obj\Debug\Testing2.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\Testing2\obj\Debug\Testing2.exe
+C:\Users\tarna\source\repos\Testing2\obj\Debug\Testing2.pdb
