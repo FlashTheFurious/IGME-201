@@ -11,13 +11,13 @@ namespace Testing2
         static void Main(string[] args)
         {
             int numOne, numTwo, numThree, numFour;
-            Console.WriteLine("Give me a number:");
+            Console.WriteLine("Give me 4 numbers to multiply. The first number is:");
             numOne = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Give me another number:");
+            Console.WriteLine("The second number is:");
             numTwo = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Give me another number:");
+            Console.WriteLine("The third number is:");
             numThree = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Give me another number:");
+            Console.WriteLine("The fourth number is:");
             numFour = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("The product of {0}, {1}, {2}, and {3} is {4}.",
                           numOne, numTwo, numThree, numFour,
