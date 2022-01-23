@@ -1,0 +1,7 @@
+C:\Users\tarna\source\repos\Mandelbrot\bin\Debug\Mandelbrot.exe.config
+C:\Users\tarna\source\repos\Mandelbrot\bin\Debug\Mandelbrot.exe
+C:\Users\tarna\source\repos\Mandelbrot\bin\Debug\Mandelbrot.pdb
+C:\Users\tarna\source\repos\Mandelbrot\obj\Debug\Mandelbrot.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\Mandelbrot\obj\Debug\Mandelbrot.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\Mandelbrot\obj\Debug\Mandelbrot.exe
+C:\Users\tarna\source\repos\Mandelbrot\obj\Debug\Mandelbrot.pdb
