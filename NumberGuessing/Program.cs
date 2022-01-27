@@ -31,7 +31,7 @@ namespace NumberGuessing
 
             for (int i = 0; i < 8; i++)
             {
-                //Label used to jump to if user enters a number outside of allowed range, 0-100
+                //Label for the invalid guesses to jump to
                 InvalidGuess:
 
                 // Declare local variable to store input
