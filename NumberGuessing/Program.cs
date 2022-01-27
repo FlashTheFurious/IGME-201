@@ -31,33 +31,48 @@ namespace NumberGuessing
 
             for (int i = 0; i < 8; i++)
             {
+                //Label used to jump to if user enters a number outside of allowed range, 0-100
                 InvalidGuess:
 
-                Console.WriteLine("Guess Number {0}", i + 1);
-
                 // Declare local variable to store input
-                int userGuess;
+                int nUserGuess;
+                string sUserGuess;
+                bool bValid;
 
-                //Take input from the user
-                userGuess = Convert.ToInt32(Console.ReadLine());
+                do //'Do' the following code 'while' bValid is true
+                   //'Do' also makes sure the code runs atleast once
+                {
+                    Console.WriteLine("Guess Number {0}", i + 1);
+
+                    //Take input from the user
+                    sUserGuess = Console.ReadLine();
+                    bValid = int.TryParse(sUserGuess, out nUserGuess); //if TryParse succeeds then bValid is set to true
+
+                    if (!bValid)
+                    {
+                        Console.WriteLine("You didn't even guess a number, try again");
+                    }
+
+                } while (bValid == false);
 
                 //Check if user's guess is a valid number , i.e., 0-100
-                if (userGuess < 0 || userGuess > 100)
+                if (nUserGuess < 0 || nUserGuess > 100)
                 {
+                    //If it is invalid, send user back to start of the loop without increasing 'i'
                     Console.WriteLine("You guessed an invalid number, try again");
                     goto InvalidGuess;
                 }
 
                 //Check if user's guess is too high or too low
-                if (userGuess < randomNumber)
+                if (nUserGuess < randomNumber)
                 {
                     Console.WriteLine("Too low, try higher");
                 }
-                else if (userGuess > randomNumber)
+                else if (nUserGuess > randomNumber)
                 {
                     Console.WriteLine("Too high, try lower");
                 }
-                else if (userGuess == randomNumber)
+                else if (nUserGuess == randomNumber)
                 {
                     //Making a fancy end screen
                     Console.BackgroundColor = ConsoleColor.Cyan;
@@ -69,7 +84,7 @@ namespace NumberGuessing
                     Console.WriteLine("And it only took you {0} tries!", i + 1);
 
                     //Exit out of loop
-                    goto GameWon;
+                    break;
 
 
 
@@ -87,11 +102,7 @@ namespace NumberGuessing
                 }
 
             }
-
-            //I use another label here to exit out of our loop as soon as we win the game
-            GameWon:
             Console.WriteLine("Thank You for Playing!!!");
-
         }
     }
 }
