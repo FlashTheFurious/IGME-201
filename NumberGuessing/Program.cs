@@ -31,7 +31,9 @@ namespace NumberGuessing
 
             for (int i = 0; i < 8; i++)
             {
+
                 //Label for the invalid guesses to jump to
+
                 InvalidGuess:
 
                 // Declare local variable to store input
