@@ -1,0 +1,7 @@
+C:\Users\tarna\source\repos\MadLibs\bin\Debug\MadLibs.exe.config
+C:\Users\tarna\source\repos\MadLibs\bin\Debug\MadLibs.exe
+C:\Users\tarna\source\repos\MadLibs\bin\Debug\MadLibs.pdb
+C:\Users\tarna\source\repos\MadLibs\obj\Debug\MadLibs.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\MadLibs\obj\Debug\MadLibs.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\MadLibs\obj\Debug\MadLibs.exe
+C:\Users\tarna\source\repos\MadLibs\obj\Debug\MadLibs.pdb
