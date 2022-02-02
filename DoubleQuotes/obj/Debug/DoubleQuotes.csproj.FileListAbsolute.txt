@@ -1,0 +1,7 @@
+C:\Users\tarna\source\repos\DoubleQuotes\bin\Debug\DoubleQuotes.exe.config
+C:\Users\tarna\source\repos\DoubleQuotes\bin\Debug\DoubleQuotes.exe
+C:\Users\tarna\source\repos\DoubleQuotes\bin\Debug\DoubleQuotes.pdb
+C:\Users\tarna\source\repos\DoubleQuotes\obj\Debug\DoubleQuotes.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\DoubleQuotes\obj\Debug\DoubleQuotes.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\DoubleQuotes\obj\Debug\DoubleQuotes.exe
+C:\Users\tarna\source\repos\DoubleQuotes\obj\Debug\DoubleQuotes.pdb
