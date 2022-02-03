@@ -1,0 +1,7 @@
+C:\Users\tarna\source\repos\YesNoReplace\bin\Debug\YesNoReplace.exe.config
+C:\Users\tarna\source\repos\YesNoReplace\bin\Debug\YesNoReplace.exe
+C:\Users\tarna\source\repos\YesNoReplace\bin\Debug\YesNoReplace.pdb
+C:\Users\tarna\source\repos\YesNoReplace\obj\Debug\YesNoReplace.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\YesNoReplace\obj\Debug\YesNoReplace.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\YesNoReplace\obj\Debug\YesNoReplace.exe
+C:\Users\tarna\source\repos\YesNoReplace\obj\Debug\YesNoReplace.pdb
