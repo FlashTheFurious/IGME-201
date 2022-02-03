@@ -32,28 +32,56 @@ namespace YesNoReplace
             string convertedString = " ";
 
             // For each loops through all the words in the user provided sentence
-            // 2 if blocks check if the current word is 'yes' or 'no'
-            // - if true, then a Label is used to skip the last line of the loop
+            // Multiple if blocks (hard coded casing values) check if the current word is 'yes' or 'no'
+            // -------- if true, then a Label is used to skip the last line of the loop
             // After converting everything to Lower case,
             // we use replace and concatenate the returned value to the convertedString
             foreach (string s in words)
             {
-                if (s.ToLower() == "no")
+                if (s == "no")
                 {
-                    convertedString += " " + s.ToLower().Replace("no", "yes");
+                    convertedString += " " + s.Replace("no", "yes");
+                    //convertedString += " " + s.ToLower().Replace("no", "yes");
                     goto WordReplaced;
                 }
-
-                if (s.ToLower() == "yes")
+                if (s == "NO")
                 {
-                    convertedString += " " + s.ToLower().Replace("yes", "no");
+                    convertedString += " " + s.Replace("NO", "YES");
+                    goto WordReplaced;
+
+                }
+                if (s == "No")
+                {
+                    convertedString += " " + s.Replace("No", "Yes");
+                    goto WordReplaced;
+
+                }
+
+
+                if (s == "yes")
+                {
+                    convertedString += " " + s.Replace("yes", "no");
+                    goto WordReplaced;
+                }
+                if (s == "Yes")
+                {
+                    convertedString += " " + s.Replace("Yes", "No");
+                    goto WordReplaced;
+                }
+                if (s == "YES")
+                {
+
+                    convertedString += " " + s.Replace("YES", "NO");
                     goto WordReplaced;
                 }
                 convertedString += " " + s;
+
+                //Label at the end of loop
                 WordReplaced:;
 
             }
 
+            //Print output
             Console.WriteLine(convertedString);
 
 
