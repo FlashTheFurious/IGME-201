@@ -6,8 +6,19 @@ using System.Threading.Tasks;
 
 namespace FormulaComputation
 {
+    //This program calculates the equation for z ---- 3 * Math.Pow(y, 2) + 2 * x - 1
+    //For all values of x and y in the ranges of 
+    //•	-1 <= x <= 1 in 0.1 increments
+    //•	1 <= y <= 4 in 0.1 increments
+    // it stores all these values in the 3d array zFunc[,,]
+
     class Program
     {
+        // We use doubles  to store values of x,y and z because we are expecting decimal values
+        // We also frequently use Math.Round because of the known rounding issue with doubles
+        // We use ints nX and nY to access the array dimensions for x and y
+        // We loop through the 3d array  using nested for loops, and calculate the values for z
+
         static void Main(string[] args)
         {
 

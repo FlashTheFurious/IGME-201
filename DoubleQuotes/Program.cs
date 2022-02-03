@@ -6,8 +6,16 @@ using System.Threading.Tasks;
 
 namespace DoubleQuotes
 {
+    //This Program takes in a word from the user, and puts double quotes around it
+    // We use a string variable to store the user input
+    // We add the double quotes using string concatenation
+    // We use the backslash character\ in order to use double quotes
+
     class Program
     {
+
+        //Adds double quotes around the user word by using string concatenation
+        //Prints word back to the user
         static void Main(string[] args)
         {
 

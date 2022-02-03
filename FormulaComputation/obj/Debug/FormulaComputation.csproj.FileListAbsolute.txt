@@ -5,3 +5,10 @@ C:\Users\tarna\source\repos\FormulaComputation\obj\Debug\FormulaComputation.cspr
 C:\Users\tarna\source\repos\FormulaComputation\obj\Debug\FormulaComputation.csproj.CoreCompileInputs.cache
 C:\Users\tarna\source\repos\FormulaComputation\obj\Debug\FormulaComputation.exe
 C:\Users\tarna\source\repos\FormulaComputation\obj\Debug\FormulaComputation.pdb
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\FormulaComputation\bin\Debug\FormulaComputation.exe.config
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\FormulaComputation\bin\Debug\FormulaComputation.exe
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\FormulaComputation\bin\Debug\FormulaComputation.pdb
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\FormulaComputation\obj\Debug\FormulaComputation.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\FormulaComputation\obj\Debug\FormulaComputation.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\FormulaComputation\obj\Debug\FormulaComputation.exe
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\FormulaComputation\obj\Debug\FormulaComputation.pdb
