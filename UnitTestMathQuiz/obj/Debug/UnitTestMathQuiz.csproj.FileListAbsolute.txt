@@ -1,0 +1,7 @@
+C:\Users\tarna\source\repos\UnitTestMathQuiz\bin\Debug\UnitTestMathQuiz.exe.config
+C:\Users\tarna\source\repos\UnitTestMathQuiz\bin\Debug\UnitTestMathQuiz.exe
+C:\Users\tarna\source\repos\UnitTestMathQuiz\bin\Debug\UnitTestMathQuiz.pdb
+C:\Users\tarna\source\repos\UnitTestMathQuiz\obj\Debug\UnitTestMathQuiz.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\UnitTestMathQuiz\obj\Debug\UnitTestMathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\UnitTestMathQuiz\obj\Debug\UnitTestMathQuiz.exe
+C:\Users\tarna\source\repos\UnitTestMathQuiz\obj\Debug\UnitTestMathQuiz.pdb
