@@ -22,7 +22,7 @@ namespace DelegateFunctions
         static void Main(string[] args)
         {
             // 2. Declare the delegate method variable
-            //RoundImposter roundImposter;
+            RoundImposter roundImposter;
 
             // 3. Point the variable to the method that it should call
 
@@ -33,16 +33,26 @@ namespace DelegateFunctions
             //roundImposter = new RoundImposter(Math.Round); 
 
 
-            // Option #3 (lambda function)
-            //roundImposter = (double targetNum, int decimalPlaces) => 
-            // {
-            //     double roundedVal = Math.Round(targetNum, decimalPlaces);
-            //     return roundedVal;
-            //
-            //};
+            // Option #3 (abbreviated lambda function)
+            roundImposter = (targetNum, decimalPlaces) =>
+             {
+                 double roundedVal = Math.Round(targetNum, decimalPlaces);
+                 return roundedVal;
 
+             };
 
-            // Option #4 Anonymous Code block
+            /* // Option #4 (lambda function)
+             
+            roundImposter = (double targetNum, int decimalPlaces) =>
+            {
+                double roundedVal = Math.Round(targetNum, decimalPlaces);
+                return roundedVal;
+
+            };
+            */
+
+            // Option #5 Anonymous Code block
+
             /*
             roundImposter = delegate (double targetNum, int decimalPlaces) 
             {
@@ -52,13 +62,15 @@ namespace DelegateFunctions
             };
             */
 
-            // Option #5 Using Generic Templates
+            /*
+            // Option #6 Using Generic Templates ---- Comment out line 25 to use this
+
             Func<double, int, double> roundImposter = delegate (double targetNum, int decimalPlaces)
-         {
+            {
              double roundedVal = Math.Round(targetNum, decimalPlaces);
              return roundedVal;
-         };
-
+            };
+            */
 
             int numOne = 3;
             double doubleOne = 3.0968;
