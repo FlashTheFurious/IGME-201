@@ -5,3 +5,10 @@ C:\Users\tarna\source\repos\DelegateFunctions\obj\Debug\DelegateFunctions.csproj
 C:\Users\tarna\source\repos\DelegateFunctions\obj\Debug\DelegateFunctions.csproj.CoreCompileInputs.cache
 C:\Users\tarna\source\repos\DelegateFunctions\obj\Debug\DelegateFunctions.exe
 C:\Users\tarna\source\repos\DelegateFunctions\obj\Debug\DelegateFunctions.pdb
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\DelegateFunctions\bin\Debug\DelegateFunctions.exe.config
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\DelegateFunctions\bin\Debug\DelegateFunctions.exe
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\DelegateFunctions\bin\Debug\DelegateFunctions.pdb
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\DelegateFunctions\obj\Debug\DelegateFunctions.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\DelegateFunctions\obj\Debug\DelegateFunctions.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\DelegateFunctions\obj\Debug\DelegateFunctions.exe
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\DelegateFunctions\obj\Debug\DelegateFunctions.pdb

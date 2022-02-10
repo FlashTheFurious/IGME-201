@@ -21,8 +21,14 @@ namespace DelegateFunctions
         static void Main(string[] args)
         {
             RoundImposter roundImposter;
-            roundImposter = Math.Round;//same as below
-            //roundImposter = new RoundImposter(Math.Round);//same as above
+            //roundImposter = Math.Round; //same as below - Option #1
+            //roundImposter = new RoundImposter(Math.Round); //same as above Option #2
+            roundImposter = (double targetNum, int decimalPlaces) =>          // option #3 (lambda function)
+            {
+                double roundedVal = Math.Round(targetNum, decimalPlaces);
+                return roundedVal;
+
+            };
 
             int numOne = 3;
             double doubleOne = 3.0968;
