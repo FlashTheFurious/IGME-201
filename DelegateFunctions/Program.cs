@@ -12,6 +12,7 @@ namespace DelegateFunctions
     // Restrictions: None
     class Program
     {
+        /// 1. Define the delegate method data type based on the method signature
         delegate double RoundImposter(double targetNum, int decimalPlaces);
 
         // Method: Main
@@ -20,15 +21,44 @@ namespace DelegateFunctions
         // Restrictions: None
         static void Main(string[] args)
         {
-            RoundImposter roundImposter;
-            //roundImposter = Math.Round; //same as below - Option #1
-            //roundImposter = new RoundImposter(Math.Round); //same as above Option #2
-            roundImposter = (double targetNum, int decimalPlaces) =>          // option #3 (lambda function)
+            // 2. Declare the delegate method variable
+            //RoundImposter roundImposter;
+
+            // 3. Point the variable to the method that it should call
+
+            // Option #1
+            //roundImposter = Math.Round; 
+
+            // Option #2 
+            //roundImposter = new RoundImposter(Math.Round); 
+
+
+            // Option #3 (lambda function)
+            //roundImposter = (double targetNum, int decimalPlaces) => 
+            // {
+            //     double roundedVal = Math.Round(targetNum, decimalPlaces);
+            //     return roundedVal;
+            //
+            //};
+
+
+            // Option #4 Anonymous Code block
+            /*
+            roundImposter = delegate (double targetNum, int decimalPlaces) 
             {
                 double roundedVal = Math.Round(targetNum, decimalPlaces);
                 return roundedVal;
 
             };
+            */
+
+            // Option #5 Using Generic Templates
+            Func<double, int, double> roundImposter = delegate (double targetNum, int decimalPlaces)
+         {
+             double roundedVal = Math.Round(targetNum, decimalPlaces);
+             return roundedVal;
+         };
+
 
             int numOne = 3;
             double doubleOne = 3.0968;
