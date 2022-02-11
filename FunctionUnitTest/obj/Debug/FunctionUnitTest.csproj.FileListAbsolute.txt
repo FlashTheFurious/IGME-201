@@ -1,0 +1,7 @@
+C:\Users\tarna\source\repos\FunctionUnitTest\bin\Debug\FunctionUnitTest.exe.config
+C:\Users\tarna\source\repos\FunctionUnitTest\bin\Debug\FunctionUnitTest.exe
+C:\Users\tarna\source\repos\FunctionUnitTest\bin\Debug\FunctionUnitTest.pdb
+C:\Users\tarna\source\repos\FunctionUnitTest\obj\Debug\FunctionUnitTest.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\FunctionUnitTest\obj\Debug\FunctionUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\FunctionUnitTest\obj\Debug\FunctionUnitTest.exe
+C:\Users\tarna\source\repos\FunctionUnitTest\obj\Debug\FunctionUnitTest.pdb
