@@ -52,7 +52,7 @@ namespace FunctionUnitTest
         // user enters 'Tarnav' then increase dSalary by 19999.99
         // Returns True if dSalary was increased
         // Restrictions: None
-        static bool GiveRaise(string name, ref double salary)
+        static bool GiveRaise(string name, double salary)
         {
 
             if (name.ToLower() == "tarnav")

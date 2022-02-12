@@ -1,0 +1,7 @@
+C:\Users\tarna\source\repos\ThreeQuestionsExe\bin\Debug\ThreeQuestionsExe.exe.config
+C:\Users\tarna\source\repos\ThreeQuestionsExe\bin\Debug\ThreeQuestionsExe.exe
+C:\Users\tarna\source\repos\ThreeQuestionsExe\bin\Debug\ThreeQuestionsExe.pdb
+C:\Users\tarna\source\repos\ThreeQuestionsExe\obj\Debug\ThreeQuestionsExe.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\ThreeQuestionsExe\obj\Debug\ThreeQuestionsExe.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\ThreeQuestionsExe\obj\Debug\ThreeQuestionsExe.exe
+C:\Users\tarna\source\repos\ThreeQuestionsExe\obj\Debug\ThreeQuestionsExe.pdb
