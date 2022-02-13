@@ -9,15 +9,15 @@ namespace UT1_BugSquash
         {
             string sNumber;
             int nX;
-            int nY; //Bug 1, missing semicolon ;
+            int nY; //Bug 1 - Compile Time Error, missing semicolon ;
             int nAnswer;
 
-            Console.WriteLine("This program calculates x ^ y."); //Bug 2, missing apostrophes
+            Console.WriteLine("This program calculates x ^ y."); //Bug 2 - Compile Time Error, missing apostrophes
 
             do
             {
                 Console.Write("Enter a whole number for x: ");
-                sNumber = Console.ReadLine(); // Bug 3, sNumber was not used to store the input
+                sNumber = Console.ReadLine(); // Bug 3 - Compile Time Error, sNumber was not used to store the input
             } while (!int.TryParse(sNumber, out nX));
 
             do
@@ -25,18 +25,18 @@ namespace UT1_BugSquash
                 Console.Write("Enter a positive whole number for y: ");
                 sNumber = Console.ReadLine();
             } while (!int.TryParse(sNumber, out nY));
-            //Bug 4, the while loop condition was missing an exclamation mark '!' to check for false 
-            // Bug 5, nY was never used as the output variable. 
+            //Bug 4 - Logical and Runtime Error, the while loop condition was missing an exclamation mark '!' to check for false 
+            // Bug 5 - Logical Error, nY was never used as the output variable. 
 
             // compute the exponent of the number using a recursive function
             nAnswer = Power(nX, nY);
 
-            Console.WriteLine("{0}^{1} = {2}", nX, nY, nAnswer); //Bug 6, Console was not printing actual values of variables
+            Console.WriteLine("{0}^{1} = {2}", nX, nY, nAnswer); //Bug 6 - Logical Error,  Console was not printing actual values of variables
 
         }
 
 
-        static int Power(int nBase, int nExponent) // Bug 7, Keyword static was not being used
+        static int Power(int nBase, int nExponent) // Bug 7 - Compile Time Error,  Keyword static was not being used
         {
 
             int returnVal = 0;
@@ -46,7 +46,7 @@ namespace UT1_BugSquash
             if (nExponent == 0)
             {
                 // return the base case and do not recurse
-                returnVal = 1; // Bug 8, 0 changed to 1
+                returnVal = 1; // Bug 8 - Logical Error, 0 changed to 1
             }
             else
             {
@@ -57,12 +57,12 @@ namespace UT1_BugSquash
                 // nextVal = Power(nBase, nExponent - 1); // Bug 9, Logical error 
 
                 // multiply the base with all subsequent values
-                //Bug 10, Fixed the calculation
+                //Bug 10, Fixed the calculation. Used the Math Pow function and the required conversions and casts
                 returnVal = (int)Math.Pow(Convert.ToDouble(nBase), Convert.ToDouble(nExponent));
 
             }
 
-            return returnVal; //Bug 11, no return statement was used
+            return returnVal; //Bug 11 - Compile Time Error, no return statement was used
         }
     }
 }

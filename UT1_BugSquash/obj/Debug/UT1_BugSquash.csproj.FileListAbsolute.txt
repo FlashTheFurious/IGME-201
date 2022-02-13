@@ -5,3 +5,10 @@ C:\Users\tarna\source\repos\UT1_BugSquash\obj\Debug\UT1_BugSquash.csproj.Assembl
 C:\Users\tarna\source\repos\UT1_BugSquash\obj\Debug\UT1_BugSquash.csproj.CoreCompileInputs.cache
 C:\Users\tarna\source\repos\UT1_BugSquash\obj\Debug\UT1_BugSquash.exe
 C:\Users\tarna\source\repos\UT1_BugSquash\obj\Debug\UT1_BugSquash.pdb
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\UT1_BugSquash\bin\Debug\UT1_BugSquash.exe.config
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\UT1_BugSquash\bin\Debug\UT1_BugSquash.exe
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\UT1_BugSquash\bin\Debug\UT1_BugSquash.pdb
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\UT1_BugSquash\obj\Debug\UT1_BugSquash.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\UT1_BugSquash\obj\Debug\UT1_BugSquash.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\UT1_BugSquash\obj\Debug\UT1_BugSquash.exe
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\UT1_BugSquash\obj\Debug\UT1_BugSquash.pdb
