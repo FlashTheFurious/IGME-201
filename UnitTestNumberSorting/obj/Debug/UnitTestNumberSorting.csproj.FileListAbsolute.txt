@@ -1,0 +1,6 @@
+C:\Users\tarna\source\repos\UnitTestNumberSorting\bin\Debug\UnitTestNumberSorting.exe.config
+C:\Users\tarna\source\repos\UnitTestNumberSorting\bin\Debug\UnitTestNumberSorting.exe
+C:\Users\tarna\source\repos\UnitTestNumberSorting\bin\Debug\UnitTestNumberSorting.pdb
+C:\Users\tarna\source\repos\UnitTestNumberSorting\obj\Debug\UnitTestNumberSorting.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\UnitTestNumberSorting\obj\Debug\UnitTestNumberSorting.exe
+C:\Users\tarna\source\repos\UnitTestNumberSorting\obj\Debug\UnitTestNumberSorting.pdb
