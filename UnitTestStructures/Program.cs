@@ -6,12 +6,16 @@ using System.Threading.Tasks;
 
 namespace UnitTestStructures
 {
-    //This program calculates the equation for z ---- 3 * Math.Pow(y, 2) + 2 * x - 1
+    //This program calculates the equation for z ---- 4 * Math.Pow(y, 3) + 2 * Math.Pow(x, 2) - 8*x +7
     //For all values of x and y in the ranges of 
     //•	-1 <= x <= 1 in 0.1 increments
     //•	1 <= y <= 4 in 0.1 increments
     // it stores all these values in the 3d array zFunc[,,]
 
+    // Class: Program
+    // Author: Tarnav Bhasin
+    // Purpose: To use calculate an equation with a range of values, using for loops and structs
+    // Restrictions: None
     class Program
     {
         // We use doubles  to store values of x,y and z because we are expecting decimal values
@@ -19,6 +23,12 @@ namespace UnitTestStructures
         // We use ints nX and nY to access the array dimensions for x and y
         // We loop through the 3d array  using nested for loops, and calculate the values for z
 
+
+        // Method: Main
+        // Purpose: Declare a delegate method to impersonate Math.Round. Make a 3D array
+        // Populate the array with the correct range of values Display values to the user
+        // 
+        // Restrictions: None
         static void Main(string[] args)
         {
             // Delegate function to impersonate Math.Round
