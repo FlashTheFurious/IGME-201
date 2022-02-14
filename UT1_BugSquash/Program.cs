@@ -40,7 +40,7 @@ namespace UT1_BugSquash
         {
 
             int returnVal = 0;
-            // int nextVal = 0; // Not needed
+            int nextVal = 0;
 
             // the base case for exponents is 0 (x^0 = 1)
             if (nExponent == 0)
@@ -54,15 +54,16 @@ namespace UT1_BugSquash
 
                 // compute the subsequent values using nExponent-1 to eventually reach the base case
 
-                // nextVal = Power(nBase, nExponent - 1); // Bug 9, Logical error 
+                nextVal = Power(nBase, nExponent - 1); // Bug 9, Logical error 
 
                 // multiply the base with all subsequent values
-                //Bug 10, Fixed the calculation. Used the Math Pow function and the required conversions and casts
-                returnVal = (int)Math.Pow(Convert.ToDouble(nBase), Convert.ToDouble(nExponent));
+
+                returnVal = nBase * nextVal;
+
 
             }
 
-            return returnVal; //Bug 11 - Compile Time Error, no return statement was used
+            return returnVal; //Bug 10 - Compile Time Error, no return statement was used
         }
     }
 }
