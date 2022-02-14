@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    // Class: FunctionUnitTest
+    // Class: Program
     // Author: Tarnav Bhasin
     // Purpose: To increase dSalary by calling GiveRaise if the sName is equal to 'Tarnav'
     // Restrictions: None
     class Program
     {
         // Method: Main
-        // Purpose: Declare new Employee sName and dSalary. Prompt user for the value of sName.
+        // Purpose: Declare new Employee, set sName and dSalary. Prompt user for the value of sName.
         // Call GiveRaise function, passing in the struct Employee as the parameter
         // If Salary increased, Congratulate user
         // Restrictions: None
@@ -27,6 +27,7 @@ namespace ConsoleApp1
             newWorker.dSalary = 30000;
 
             //Calling the function
+            //Used the ref keyword here to actually get a reference to the dSalary
             GiveRaise(ref newWorker);
 
             //Check if salary increased
