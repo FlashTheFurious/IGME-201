@@ -1,0 +1,6 @@
+C:\Users\tarna\source\repos\VehicleLibrary\bin\Debug\VehicleLibrary.dll
+C:\Users\tarna\source\repos\VehicleLibrary\bin\Debug\VehicleLibrary.pdb
+C:\Users\tarna\source\repos\VehicleLibrary\obj\Debug\VehicleLibrary.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\VehicleLibrary\obj\Debug\VehicleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\VehicleLibrary\obj\Debug\VehicleLibrary.dll
+C:\Users\tarna\source\repos\VehicleLibrary\obj\Debug\VehicleLibrary.pdb

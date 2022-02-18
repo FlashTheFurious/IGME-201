@@ -1,0 +1,10 @@
+C:\Users\tarna\source\repos\TrafficApp\bin\Debug\TrafficApp.exe.config
+C:\Users\tarna\source\repos\TrafficApp\bin\Debug\TrafficApp.exe
+C:\Users\tarna\source\repos\TrafficApp\bin\Debug\TrafficApp.pdb
+C:\Users\tarna\source\repos\TrafficApp\bin\Debug\VehicleLibrary.dll
+C:\Users\tarna\source\repos\TrafficApp\bin\Debug\VehicleLibrary.pdb
+C:\Users\tarna\source\repos\TrafficApp\obj\Debug\TrafficApp.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\TrafficApp\obj\Debug\TrafficApp.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\TrafficApp\obj\Debug\TrafficApp.csproj.CopyComplete
+C:\Users\tarna\source\repos\TrafficApp\obj\Debug\TrafficApp.exe
+C:\Users\tarna\source\repos\TrafficApp\obj\Debug\TrafficApp.pdb
