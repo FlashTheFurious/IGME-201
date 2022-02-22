@@ -1,0 +1,7 @@
+C:\Users\tarna\source\repos\HW12-Q3\bin\Debug\HW12-Q3.exe.config
+C:\Users\tarna\source\repos\HW12-Q3\bin\Debug\HW12-Q3.exe
+C:\Users\tarna\source\repos\HW12-Q3\bin\Debug\HW12-Q3.pdb
+C:\Users\tarna\source\repos\HW12-Q3\obj\Debug\HW12-Q3.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\HW12-Q3\obj\Debug\HW12-Q3.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\HW12-Q3\obj\Debug\HW12-Q3.exe
+C:\Users\tarna\source\repos\HW12-Q3\obj\Debug\HW12-Q3.pdb
