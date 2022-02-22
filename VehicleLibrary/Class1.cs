@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 // Author: Tarnav Bhasin
 // Purpose: To construct empty classes as described in the UML diagram
 //          This demonstrates inheritance and how to inherit from interfaces
+//          This Program produces a dll file, that can be used as a reference to access it from other projects
 // Restrictions: None
 namespace VehicleLibrary
 {
