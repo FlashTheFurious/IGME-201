@@ -1,0 +1,6 @@
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\CourseLib\bin\Debug\CourseLib.dll
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\CourseLib\bin\Debug\CourseLib.pdb
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\CourseLib\obj\Debug\CourseLib.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\CourseLib\obj\Debug\CourseLib.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\CourseLib\obj\Debug\CourseLib.dll
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\CourseLib\obj\Debug\CourseLib.pdb

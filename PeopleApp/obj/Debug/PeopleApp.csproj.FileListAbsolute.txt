@@ -1,0 +1,12 @@
+C:\Users\tarna\source\repos\PeopleApp\bin\Debug\PeopleApp.exe.config
+C:\Users\tarna\source\repos\PeopleApp\bin\Debug\PeopleApp.exe
+C:\Users\tarna\source\repos\PeopleApp\bin\Debug\PeopleApp.pdb
+C:\Users\tarna\source\repos\PeopleApp\bin\Debug\CourseLib.dll
+C:\Users\tarna\source\repos\PeopleApp\bin\Debug\PeopleLibrary.dll
+C:\Users\tarna\source\repos\PeopleApp\bin\Debug\CourseLib.pdb
+C:\Users\tarna\source\repos\PeopleApp\bin\Debug\PeopleLibrary.pdb
+C:\Users\tarna\source\repos\PeopleApp\obj\Debug\PeopleApp.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\PeopleApp\obj\Debug\PeopleApp.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\PeopleApp\obj\Debug\PeopleApp.csproj.CopyComplete
+C:\Users\tarna\source\repos\PeopleApp\obj\Debug\PeopleApp.exe
+C:\Users\tarna\source\repos\PeopleApp\obj\Debug\PeopleApp.pdb

@@ -1,0 +1,6 @@
+C:\Users\tarna\source\repos\PeopleLibrary\bin\Debug\PeopleLibrary.dll
+C:\Users\tarna\source\repos\PeopleLibrary\bin\Debug\PeopleLibrary.pdb
+C:\Users\tarna\source\repos\PeopleLibrary\obj\Debug\PeopleLibrary.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\PeopleLibrary\obj\Debug\PeopleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\PeopleLibrary\obj\Debug\PeopleLibrary.dll
+C:\Users\tarna\source\repos\PeopleLibrary\obj\Debug\PeopleLibrary.pdb
