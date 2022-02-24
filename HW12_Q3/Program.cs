@@ -22,7 +22,7 @@ namespace HW12_Q3
         }
     }
 
-    class MyDerivedClass : MyClass
+    public class MyDerivedClass : MyClass
     {
         public override string GetString()
         {
