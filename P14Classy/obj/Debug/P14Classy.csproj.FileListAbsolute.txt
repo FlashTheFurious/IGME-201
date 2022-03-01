@@ -1,0 +1,7 @@
+C:\Users\tarna\source\repos\P14Classy\bin\Debug\P14Classy.exe.config
+C:\Users\tarna\source\repos\P14Classy\bin\Debug\P14Classy.exe
+C:\Users\tarna\source\repos\P14Classy\bin\Debug\P14Classy.pdb
+C:\Users\tarna\source\repos\P14Classy\obj\Debug\P14Classy.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\P14Classy\obj\Debug\P14Classy.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\P14Classy\obj\Debug\P14Classy.exe
+C:\Users\tarna\source\repos\P14Classy\obj\Debug\P14Classy.pdb
