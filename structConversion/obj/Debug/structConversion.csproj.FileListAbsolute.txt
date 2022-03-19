@@ -1,0 +1,7 @@
+C:\Users\tarna\source\repos\structConversion\bin\Debug\structConversion.exe.config
+C:\Users\tarna\source\repos\structConversion\bin\Debug\structConversion.exe
+C:\Users\tarna\source\repos\structConversion\bin\Debug\structConversion.pdb
+C:\Users\tarna\source\repos\structConversion\obj\Debug\structConversion.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\structConversion\obj\Debug\structConversion.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\structConversion\obj\Debug\structConversion.exe
+C:\Users\tarna\source\repos\structConversion\obj\Debug\structConversion.pdb
