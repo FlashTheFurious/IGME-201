@@ -1,0 +1,14 @@
+C:\Users\tarna\source\repos\UnitTestStructures\bin\Debug\UnitTestStructures.exe.config
+C:\Users\tarna\source\repos\UnitTestStructures\bin\Debug\UnitTestStructures.exe
+C:\Users\tarna\source\repos\UnitTestStructures\bin\Debug\UnitTestStructures.pdb
+C:\Users\tarna\source\repos\UnitTestStructures\obj\Debug\UnitTestStructures.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\UnitTestStructures\obj\Debug\UnitTestStructures.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\UnitTestStructures\obj\Debug\UnitTestStructures.exe
+C:\Users\tarna\source\repos\UnitTestStructures\obj\Debug\UnitTestStructures.pdb
+C:\Users\tarna\source\repos\UnitTest2Structures\bin\Debug\UnitTestStructures.exe.config
+C:\Users\tarna\source\repos\UnitTest2Structures\bin\Debug\UnitTestStructures.exe
+C:\Users\tarna\source\repos\UnitTest2Structures\bin\Debug\UnitTestStructures.pdb
+C:\Users\tarna\source\repos\UnitTest2Structures\obj\Debug\UnitTestStructures.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\UnitTest2Structures\obj\Debug\UnitTestStructures.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\UnitTest2Structures\obj\Debug\UnitTestStructures.exe
+C:\Users\tarna\source\repos\UnitTest2Structures\obj\Debug\UnitTestStructures.pdb
