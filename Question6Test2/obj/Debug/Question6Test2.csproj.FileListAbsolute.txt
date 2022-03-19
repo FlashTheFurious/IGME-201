@@ -1,0 +1,10 @@
+C:\Users\tarna\source\repos\Question6Test2\bin\Debug\Question6Test2.exe.config
+C:\Users\tarna\source\repos\Question6Test2\bin\Debug\Question6Test2.exe
+C:\Users\tarna\source\repos\Question6Test2\bin\Debug\Question6Test2.pdb
+C:\Users\tarna\source\repos\Question6Test2\bin\Debug\question4Test2.dll
+C:\Users\tarna\source\repos\Question6Test2\bin\Debug\question4Test2.pdb
+C:\Users\tarna\source\repos\Question6Test2\obj\Debug\Question6Test2.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\Question6Test2\obj\Debug\Question6Test2.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\Question6Test2\obj\Debug\Question6Test2.csproj.CopyComplete
+C:\Users\tarna\source\repos\Question6Test2\obj\Debug\Question6Test2.exe
+C:\Users\tarna\source\repos\Question6Test2\obj\Debug\Question6Test2.pdb
