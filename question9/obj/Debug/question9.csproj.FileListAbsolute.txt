@@ -1,0 +1,6 @@
+C:\Users\tarna\source\repos\question9\bin\Debug\question9.dll
+C:\Users\tarna\source\repos\question9\bin\Debug\question9.pdb
+C:\Users\tarna\source\repos\question9\obj\Debug\question9.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\question9\obj\Debug\question9.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\question9\obj\Debug\question9.dll
+C:\Users\tarna\source\repos\question9\obj\Debug\question9.pdb

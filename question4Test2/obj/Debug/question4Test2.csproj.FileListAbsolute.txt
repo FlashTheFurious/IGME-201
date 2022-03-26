@@ -1,0 +1,6 @@
+C:\Users\tarna\source\repos\question4Test2\bin\Debug\question4Test2.dll
+C:\Users\tarna\source\repos\question4Test2\bin\Debug\question4Test2.pdb
+C:\Users\tarna\source\repos\question4Test2\obj\Debug\question4Test2.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\question4Test2\obj\Debug\question4Test2.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\question4Test2\obj\Debug\question4Test2.dll
+C:\Users\tarna\source\repos\question4Test2\obj\Debug\question4Test2.pdb
