@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE20Dom", "PE20Dom.csproj", "{612D278C-1B14-468D-A285-9C1F092DD296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{612D278C-1B14-468D-A285-9C1F092DD296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612D278C-1B14-468D-A285-9C1F092DD296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612D278C-1B14-468D-A285-9C1F092DD296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612D278C-1B14-468D-A285-9C1F092DD296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E13503BE-E898-4BBE-955E-55593251DA5D}
+	EndGlobalSection
+EndGlobal

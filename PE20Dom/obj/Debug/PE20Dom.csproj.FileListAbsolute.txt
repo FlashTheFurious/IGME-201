@@ -1,0 +1,10 @@
+C:\Users\tarna\source\repos\PE20Dom\bin\Debug\PE20Dom.exe.config
+C:\Users\tarna\source\repos\PE20Dom\bin\Debug\PE20Dom.exe
+C:\Users\tarna\source\repos\PE20Dom\bin\Debug\PE20Dom.pdb
+C:\Users\tarna\source\repos\PE20Dom\obj\Debug\PE20Dom.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\PE20Dom\obj\Debug\PE20Dom.Form1.resources
+C:\Users\tarna\source\repos\PE20Dom\obj\Debug\PE20Dom.Properties.Resources.resources
+C:\Users\tarna\source\repos\PE20Dom\obj\Debug\PE20Dom.csproj.GenerateResource.cache
+C:\Users\tarna\source\repos\PE20Dom\obj\Debug\PE20Dom.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\PE20Dom\obj\Debug\PE20Dom.exe
+C:\Users\tarna\source\repos\PE20Dom\obj\Debug\PE20Dom.pdb
