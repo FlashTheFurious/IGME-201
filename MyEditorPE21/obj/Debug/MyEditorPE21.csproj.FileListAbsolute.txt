@@ -1,0 +1,10 @@
+C:\Users\tarna\source\repos\MyEditorPE21\bin\Debug\MyEditorPE21.exe.config
+C:\Users\tarna\source\repos\MyEditorPE21\bin\Debug\MyEditorPE21.exe
+C:\Users\tarna\source\repos\MyEditorPE21\bin\Debug\MyEditorPE21.pdb
+C:\Users\tarna\source\repos\MyEditorPE21\obj\Debug\MyEditorPE21.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\MyEditorPE21\obj\Debug\MyEditorPE21.Form1.resources
+C:\Users\tarna\source\repos\MyEditorPE21\obj\Debug\MyEditorPE21.Properties.Resources.resources
+C:\Users\tarna\source\repos\MyEditorPE21\obj\Debug\MyEditorPE21.csproj.GenerateResource.cache
+C:\Users\tarna\source\repos\MyEditorPE21\obj\Debug\MyEditorPE21.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\MyEditorPE21\obj\Debug\MyEditorPE21.exe
+C:\Users\tarna\source\repos\MyEditorPE21\obj\Debug\MyEditorPE21.pdb
