@@ -58,6 +58,9 @@ namespace MyEditorPE21
             this.countdownLabel.Visible = true;
             this.richTextBox.Visible = false;
 
+            // Clears all pre filled text to prevent cheating
+            this.richTextBox.Clear();
+
             for (int i = 3; i > 0; i--)
             {
                 this.countdownLabel.Text = i.ToString();
