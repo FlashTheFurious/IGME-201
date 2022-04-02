@@ -227,6 +227,7 @@ namespace MyEditorPE21
             // 
             // toolStrip
             // 
+            this.toolStrip.Dock = System.Windows.Forms.DockStyle.None;
             this.toolStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.boldToolStripButton,
             this.italicsToolStripButton,
@@ -235,9 +236,9 @@ namespace MyEditorPE21
             this.underlineToolStripButton,
             this.toolStripSeparator2,
             this.testToolStripButton});
-            this.toolStrip.Location = new System.Drawing.Point(0, 24);
+            this.toolStrip.Location = new System.Drawing.Point(0, 27);
             this.toolStrip.Name = "toolStrip";
-            this.toolStrip.Size = new System.Drawing.Size(800, 25);
+            this.toolStrip.Size = new System.Drawing.Size(193, 25);
             this.toolStrip.TabIndex = 0;
             this.toolStrip.Text = "toolStrip1";
             // 
@@ -363,10 +364,10 @@ namespace MyEditorPE21
             // 
             this.toolStripContainer.ContentPanel.Controls.Add(this.countdownLabel);
             this.toolStripContainer.ContentPanel.Controls.Add(this.richTextBox);
-            this.toolStripContainer.ContentPanel.Size = new System.Drawing.Size(800, 375);
-            this.toolStripContainer.Location = new System.Drawing.Point(12, 63);
+            this.toolStripContainer.ContentPanel.Size = new System.Drawing.Size(800, 398);
+            this.toolStripContainer.Location = new System.Drawing.Point(0, 27);
             this.toolStripContainer.Name = "toolStripContainer";
-            this.toolStripContainer.Size = new System.Drawing.Size(800, 422);
+            this.toolStripContainer.Size = new System.Drawing.Size(800, 420);
             this.toolStripContainer.TabIndex = 1;
             // 
             // statusStrip1
@@ -393,7 +394,7 @@ namespace MyEditorPE21
             this.countdownLabel.ForeColor = System.Drawing.Color.Red;
             this.countdownLabel.Location = new System.Drawing.Point(0, 0);
             this.countdownLabel.Name = "countdownLabel";
-            this.countdownLabel.Size = new System.Drawing.Size(800, 375);
+            this.countdownLabel.Size = new System.Drawing.Size(800, 398);
             this.countdownLabel.TabIndex = 2;
             this.countdownLabel.Text = "3";
             this.countdownLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
