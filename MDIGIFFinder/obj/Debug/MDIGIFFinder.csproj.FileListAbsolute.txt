@@ -1,0 +1,12 @@
+C:\Users\tarna\source\repos\MDIGIFFinder\bin\Debug\MDIGIFFinder.exe.config
+C:\Users\tarna\source\repos\MDIGIFFinder\bin\Debug\MDIGIFFinder.exe
+C:\Users\tarna\source\repos\MDIGIFFinder\bin\Debug\MDIGIFFinder.pdb
+C:\Users\tarna\source\repos\MDIGIFFinder\obj\Debug\MDIGIFFinder.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\MDIGIFFinder\obj\Debug\MDIGIFFinder.GIFFinder.resources
+C:\Users\tarna\source\repos\MDIGIFFinder\obj\Debug\MDIGIFFinder.SearchForm.resources
+C:\Users\tarna\source\repos\MDIGIFFinder\obj\Debug\MDIGIFFinder.ImageForm.resources
+C:\Users\tarna\source\repos\MDIGIFFinder\obj\Debug\MDIGIFFinder.Properties.Resources.resources
+C:\Users\tarna\source\repos\MDIGIFFinder\obj\Debug\MDIGIFFinder.csproj.GenerateResource.cache
+C:\Users\tarna\source\repos\MDIGIFFinder\obj\Debug\MDIGIFFinder.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\MDIGIFFinder\obj\Debug\MDIGIFFinder.exe
+C:\Users\tarna\source\repos\MDIGIFFinder\obj\Debug\MDIGIFFinder.pdb
