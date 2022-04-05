@@ -61,7 +61,7 @@ namespace DynamicPeople
             this.flowLayoutPanel1.Controls.SetChildIndex(panel1, flowLayoutPanel1.Controls.Count);
         }
 
-        private void AddPersonToPanel(ref Panel panel, Person person)
+        private void AddPersonToPanel(ref Panel panel1, Person person)
         {
 
             Label emailLabel = new System.Windows.Forms.Label();
