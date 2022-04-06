@@ -9,3 +9,14 @@ C:\Users\tarna\source\repos\Dyscord\obj\Debug\Dyscord.csproj.GenerateResource.ca
 C:\Users\tarna\source\repos\Dyscord\obj\Debug\Dyscord.csproj.CoreCompileInputs.cache
 C:\Users\tarna\source\repos\Dyscord\obj\Debug\Dyscord.exe
 C:\Users\tarna\source\repos\Dyscord\obj\Debug\Dyscord.pdb
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\Dyscord\bin\Debug\Dyscord.exe.config
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\Dyscord\bin\Debug\Dyscord.exe
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\Dyscord\bin\Debug\Dyscord.pdb
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\Dyscord\obj\Debug\Dyscord.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\Dyscord\obj\Debug\Dyscord.SettingsForm.resources
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\Dyscord\obj\Debug\Dyscord.DyscordForm.resources
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\Dyscord\obj\Debug\Dyscord.Properties.Resources.resources
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\Dyscord\obj\Debug\Dyscord.csproj.GenerateResource.cache
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\Dyscord\obj\Debug\Dyscord.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\Dyscord\obj\Debug\Dyscord.exe
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\Dyscord\obj\Debug\Dyscord.pdb
