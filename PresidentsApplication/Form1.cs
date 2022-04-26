@@ -42,10 +42,76 @@ namespace PresidentsApplication
 
         private void WebBrowser1__Navigated(object sender, WebBrowserNavigatedEventArgs e)
         {
+            if (sender == franklinDRooseveltRadioButton)
+            {
+                this.groupBox1.Text = "https://en.m.wikipedia.org/wiki/Franklin_D._Roosevelt";
+            }
+        }
+
+        private void WilliamJClintonRadioButton__CheckedChanged(object sender, EventArgs e)
+        {
 
         }
 
+        private void WilliamMcKinleyRadioButton__CheckedChanged(object sender, EventArgs e)
+        {
 
+        }
+        private void BarackObamaRadioButton__CheckedChanged(object sender, EventArgs e)
+        {
 
+        }
+        private void BenjaminHarrisonRadioButton__CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+        private void DwightDEisenhowerRadioButton__CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+        private void FranklinDRooseveltRadioButton__CheckedChanged(object sender, EventArgs e)
+        {
+            this.webBrowser1.Navigate("https://en.m.wikipedia.org/wiki/Franklin_D._Roosevelt");
+        }
+        private void FranklinPierceRadioButton__CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+        private void GeorgeWashingtonRadioButton__CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+        private void GeorgeWBushRadioButton__CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+        private void JamesBuchananRadioButton__CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+        private void JohnAdamsRadioButton__CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+        private void JohnFKennedyRadioButton__CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+        private void ThomasJeffersonRadioButton__CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+        private void RonaldReaganRadioButton__CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+        private void MartinVanBurenRadioButton__CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+        private void TheodoreRooseveltRadioButton__CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

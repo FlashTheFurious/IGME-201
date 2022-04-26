@@ -1,0 +1,10 @@
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\PresidentsApplication\bin\Debug\PresidentsApplication.exe.config
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\PresidentsApplication\bin\Debug\PresidentsApplication.exe
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\PresidentsApplication\bin\Debug\PresidentsApplication.pdb
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\PresidentsApplication\obj\Debug\PresidentsApplication.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\PresidentsApplication\obj\Debug\PresidentsApplication.Form1.resources
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\PresidentsApplication\obj\Debug\PresidentsApplication.Properties.Resources.resources
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\PresidentsApplication\obj\Debug\PresidentsApplication.csproj.GenerateResource.cache
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\PresidentsApplication\obj\Debug\PresidentsApplication.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\PresidentsApplication\obj\Debug\PresidentsApplication.exe
+C:\Users\tarna\source\repos\FlashTheFurious\IGME-201\PresidentsApplication\obj\Debug\PresidentsApplication.pdb
