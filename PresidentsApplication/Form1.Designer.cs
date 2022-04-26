@@ -265,7 +265,6 @@ namespace PresidentsApplication
             this.BHPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.BHPictureBox.TabIndex = 32;
             this.BHPictureBox.TabStop = false;
-            this.BHPictureBox.Visible = false;
             // 
             // textBox13
             // 

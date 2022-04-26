@@ -12,10 +12,45 @@ namespace PresidentsApplication
 {
     public partial class Form1 : Form
     {
+
+
         public Form1()
         {
             InitializeComponent();
 
+            this.BHPictureBox.MouseLeave += new EventHandler(BHPictureBox__MouseLeave);
+            this.FDRPictureBox.MouseLeave += new EventHandler(FDRPictureBox__MouseLeave);
+            this.WJCPictureBox.MouseLeave += new EventHandler(WJCPictureBox__MouseLeave);
+            this.JBPictureBox.MouseLeave += new EventHandler(JBPictureBox__MouseLeave);
+            this.FPPictureBox.MouseLeave += new EventHandler(FPPictureBox__MouseLeave);
+            this.GWBPictureBox.MouseLeave += new EventHandler(GWBPictureBox__MouseLeave);
+            this.BOPictureBox.MouseLeave += new EventHandler(BOPictureBox__MouseLeave);
+            this.JFKPictureBox.MouseLeave += new EventHandler(JFKPictureBox__MouseLeave);
+            this.WMKPictureBox.MouseLeave += new EventHandler(WMKPictureBox__MouseLeave);
+            this.RRPictureBox.MouseLeave += new EventHandler(RRPictureBox__MouseLeave);
+            this.DDEPictureBox.MouseLeave += new EventHandler(DDEPictureBox__MouseLeave);
+            this.MVBPictureBox.MouseLeave += new EventHandler(MVBPictureBox__MouseLeave);
+            this.GWPictureBox.MouseLeave += new EventHandler(GWPictureBox__MouseLeave);
+            this.JAPictureBox.MouseLeave += new EventHandler(JAPictureBox__MouseLeave);
+            this.TRPictureBox.MouseLeave += new EventHandler(TRPictureBox__MouseLeave);
+            this.TJPictureBox.MouseLeave += new EventHandler(TJPictureBox__MouseLeave);
+
+            this.BHPictureBox.MouseHover += new EventHandler(BHPictureBox__MouseHover);
+            this.FDRPictureBox.MouseHover += new EventHandler(FDRPictureBox__MouseHover);
+            this.WJCPictureBox.MouseHover += new EventHandler(WJCPictureBox__MouseHover);
+            this.JBPictureBox.MouseHover += new EventHandler(JBPictureBox__MouseHover);
+            this.FPPictureBox.MouseHover += new EventHandler(FPPictureBox__MouseHover);
+            this.GWBPictureBox.MouseHover += new EventHandler(GWBPictureBox__MouseHover);
+            this.BOPictureBox.MouseHover += new EventHandler(BOPictureBox__MouseHover);
+            this.JFKPictureBox.MouseHover += new EventHandler(JFKPictureBox__MouseHover);
+            this.WMKPictureBox.MouseHover += new EventHandler(WMKPictureBox__MouseHover);
+            this.RRPictureBox.MouseHover += new EventHandler(RRPictureBox__MouseHover);
+            this.DDEPictureBox.MouseHover += new EventHandler(DDEPictureBox__MouseHover);
+            this.MVBPictureBox.MouseHover += new EventHandler(MVBPictureBox__MouseHover);
+            this.GWPictureBox.MouseHover += new EventHandler(GWPictureBox__MouseHover);
+            this.JAPictureBox.MouseHover += new EventHandler(JAPictureBox__MouseHover);
+            this.TRPictureBox.MouseHover += new EventHandler(TRPictureBox__MouseHover);
+            this.TJPictureBox.MouseHover += new EventHandler(TJPictureBox__MouseHover);
 
 
             this.williamJClintonRadioButton.CheckedChanged += new EventHandler(WilliamJClintonRadioButton__CheckedChanged);
@@ -44,6 +79,171 @@ namespace PresidentsApplication
             this.democratRepublicanRadioButton.CheckedChanged += new EventHandler(DemocratRepublicanRadioButton__CheckedChanged);
             this.federalistRadioButton.CheckedChanged += new EventHandler(FederalistRadioButton__CheckedChanged);
             this.allRadioButton.CheckedChanged += new EventHandler(AllRadioButton__CheckedChanged);
+        }
+
+        private void BHPictureBox__MouseLeave(object sender, EventArgs e)
+        {
+            BHPictureBox.Height = 230;
+            BHPictureBox.Width = 169;
+        }
+        private void FDRPictureBox__MouseLeave(object sender, EventArgs e)
+        {
+            FDRPictureBox.Height = 230;
+            FDRPictureBox.Width = 169;
+        }
+        private void WJCPictureBox__MouseLeave(object sender, EventArgs e)
+        {
+            WJCPictureBox.Height = 230;
+            WJCPictureBox.Width = 169;
+        }
+        private void JBPictureBox__MouseLeave(object sender, EventArgs e)
+        {
+            JBPictureBox.Height = 230;
+            JBPictureBox.Width = 169;
+        }
+        private void FPPictureBox__MouseLeave(object sender, EventArgs e)
+        {
+            FPPictureBox.Height = 230;
+            FPPictureBox.Width = 169;
+        }
+        private void GWBPictureBox__MouseLeave(object sender, EventArgs e)
+        {
+            GWBPictureBox.Height = 230;
+            GWBPictureBox.Width = 169;
+        }
+        private void BOPictureBox__MouseLeave(object sender, EventArgs e)
+        {
+            BOPictureBox.Height = 230;
+            BOPictureBox.Width = 169;
+        }
+        private void JFKPictureBox__MouseLeave(object sender, EventArgs e)
+        {
+            JFKPictureBox.Height = 230;
+            JFKPictureBox.Width = 169;
+        }
+        private void WMKPictureBox__MouseLeave(object sender, EventArgs e)
+        {
+            WMKPictureBox.Height = 230;
+            WMKPictureBox.Width = 169;
+        }
+        private void RRPictureBox__MouseLeave(object sender, EventArgs e)
+        {
+            RRPictureBox.Height = 230;
+            RRPictureBox.Width = 169;
+        }
+        private void DDEPictureBox__MouseLeave(object sender, EventArgs e)
+        {
+            DDEPictureBox.Height = 230;
+            DDEPictureBox.Width = 169;
+        }
+        private void MVBPictureBox__MouseLeave(object sender, EventArgs e)
+        {
+            MVBPictureBox.Height = 230;
+            MVBPictureBox.Width = 169;
+        }
+        private void GWPictureBox__MouseLeave(object sender, EventArgs e)
+        {
+            GWPictureBox.Height = 230;
+            GWPictureBox.Width = 169;
+        }
+        private void JAPictureBox__MouseLeave(object sender, EventArgs e)
+        {
+            JAPictureBox.Height = 230;
+            JAPictureBox.Width = 169;
+        }
+        private void TRPictureBox__MouseLeave(object sender, EventArgs e)
+        {
+            TRPictureBox.Height = 230;
+            TRPictureBox.Width = 169;
+        }
+        private void TJPictureBox__MouseLeave(object sender, EventArgs e)
+        {
+            TJPictureBox.Height = 230;
+            TJPictureBox.Width = 169;
+        }
+
+
+        private void BHPictureBox__MouseHover(object sender, EventArgs e)
+        {
+            BHPictureBox.Height = 350;
+            BHPictureBox.Width = 280;
+
+        }
+        private void FDRPictureBox__MouseHover(object sender, EventArgs e)
+        {
+            FDRPictureBox.Height = 350;
+            FDRPictureBox.Width = 280;
+        }
+        private void JBPictureBox__MouseHover(object sender, EventArgs e)
+        {
+            JBPictureBox.Height = 350;
+            JBPictureBox.Width = 280;
+        }
+        private void WJCPictureBox__MouseHover(object sender, EventArgs e)
+        {
+            WJCPictureBox.Height = 350;
+            WJCPictureBox.Width = 280;
+        }
+        private void FPPictureBox__MouseHover(object sender, EventArgs e)
+        {
+            FPPictureBox.Height = 350;
+            FPPictureBox.Width = 280;
+
+        }
+        private void BOPictureBox__MouseHover(object sender, EventArgs e)
+        {
+            BOPictureBox.Height = 350;
+            BOPictureBox.Width = 280;
+        }
+        private void GWBPictureBox__MouseHover(object sender, EventArgs e)
+        {
+            GWBPictureBox.Height = 350;
+            GWBPictureBox.Width = 280;
+        }
+        private void JFKPictureBox__MouseHover(object sender, EventArgs e)
+        {
+            JFKPictureBox.Height = 350;
+            JFKPictureBox.Width = 280;
+        }
+        private void WMKPictureBox__MouseHover(object sender, EventArgs e)
+        {
+            WMKPictureBox.Height = 350;
+            WMKPictureBox.Width = 280;
+        }
+        private void RRPictureBox__MouseHover(object sender, EventArgs e)
+        {
+            RRPictureBox.Height = 350;
+            RRPictureBox.Width = 280;
+        }
+        private void DDEPictureBox__MouseHover(object sender, EventArgs e)
+        {
+            DDEPictureBox.Height = 350;
+            DDEPictureBox.Width = 280;
+        }
+        private void MVBPictureBox__MouseHover(object sender, EventArgs e)
+        {
+            MVBPictureBox.Height = 350;
+            MVBPictureBox.Width = 280;
+        }
+        private void GWPictureBox__MouseHover(object sender, EventArgs e)
+        {
+            GWPictureBox.Height = 350;
+            GWPictureBox.Width = 280;
+        }
+        private void JAPictureBox__MouseHover(object sender, EventArgs e)
+        {
+            JAPictureBox.Height = 350;
+            JAPictureBox.Width = 280;
+        }
+        private void TRPictureBox__MouseHover(object sender, EventArgs e)
+        {
+            TRPictureBox.Height = 350;
+            TRPictureBox.Width = 280;
+        }
+        private void TJPictureBox__MouseHover(object sender, EventArgs e)
+        {
+            TJPictureBox.Height = 350;
+            TJPictureBox.Width = 280;
         }
         private void AllPresidentsInvisible()
         {

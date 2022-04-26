@@ -1,0 +1,12 @@
+C:\Users\tarna\source\repos\WorstUI\bin\Debug\WorstUI.exe.config
+C:\Users\tarna\source\repos\WorstUI\bin\Debug\WorstUI.exe
+C:\Users\tarna\source\repos\WorstUI\bin\Debug\WorstUI.pdb
+C:\Users\tarna\source\repos\WorstUI\obj\Debug\WorstUI.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\WorstUI\obj\Debug\WorstUI.Form1.resources
+C:\Users\tarna\source\repos\WorstUI\obj\Debug\WorstUI.Properties.Resources.resources
+C:\Users\tarna\source\repos\WorstUI\obj\Debug\WorstUI.csproj.GenerateResource.cache
+C:\Users\tarna\source\repos\WorstUI\obj\Debug\WorstUI.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\WorstUI\obj\Debug\WorstUI.exe
+C:\Users\tarna\source\repos\WorstUI\obj\Debug\WorstUI.pdb
+C:\Users\tarna\source\repos\WorstUI\obj\Debug\WorstUI.Form2.resources
+C:\Users\tarna\source\repos\WorstUI\obj\Debug\WorstUI.Form3.resources
