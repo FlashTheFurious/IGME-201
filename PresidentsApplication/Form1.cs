@@ -69,23 +69,23 @@ namespace PresidentsApplication
         private void DemocratRadioButton__CheckedChanged(object sender, EventArgs e)
         {
             AllPresidentsInvisible();
-            this.williamJClintonRadioButton.Visible = false;
-            this.barackObamaRadioButton.Visible = false;
-            this.franklinPierceRadioButton.Visible = false;
-            this.franklinDRooseveltRadioButton.Visible = false;
-            this.jamesBuchananRadioButton.Visible = false;
-            this.johnFKennedyRadioButton.Visible = false;
-            this.martinVanBurenRadioButton.Visible = false;
+            this.williamJClintonRadioButton.Visible = true;
+            this.barackObamaRadioButton.Visible = true;
+            this.franklinPierceRadioButton.Visible = true;
+            this.franklinDRooseveltRadioButton.Visible = true;
+            this.jamesBuchananRadioButton.Visible = true;
+            this.johnFKennedyRadioButton.Visible = true;
+            this.martinVanBurenRadioButton.Visible = true;
         }
         private void RepublicanRadioButton__CheckedChanged(object sender, EventArgs e)
         {
             AllPresidentsInvisible();
-            this.williamMcKinleyRadioButton.Visible = false;
-            this.benjaminHarrisonRadioButton.Visible = false;
-            this.dwightDEisenhowerRadioButton.Visible = false;
-            this.georgeWBushRadioButton.Visible = false;
-            this.ronaldReaganRadioButton.Visible = false;
-            this.theodoreRooseveltRadioButton.Visible = false;
+            this.williamMcKinleyRadioButton.Visible = true;
+            this.benjaminHarrisonRadioButton.Visible = true;
+            this.dwightDEisenhowerRadioButton.Visible = true;
+            this.georgeWBushRadioButton.Visible = true;
+            this.ronaldReaganRadioButton.Visible = true;
+            this.theodoreRooseveltRadioButton.Visible = true;
         }
         private void DemocratRepublicanRadioButton__CheckedChanged(object sender, EventArgs e)
         {

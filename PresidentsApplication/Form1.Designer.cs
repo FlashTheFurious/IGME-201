@@ -92,6 +92,7 @@ namespace PresidentsApplication
             this.JAPictureBox = new System.Windows.Forms.PictureBox();
             this.TRPictureBox = new System.Windows.Forms.PictureBox();
             this.TJPictureBox = new System.Windows.Forms.PictureBox();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
@@ -272,6 +273,8 @@ namespace PresidentsApplication
             this.textBox13.Name = "textBox13";
             this.textBox13.Size = new System.Drawing.Size(32, 20);
             this.textBox13.TabIndex = 31;
+            this.textBox13.Text = "0";
+            this.toolTip1.SetToolTip(this.textBox13, "Which # President? ");
             // 
             // textBox16
             // 
@@ -279,6 +282,8 @@ namespace PresidentsApplication
             this.textBox16.Name = "textBox16";
             this.textBox16.Size = new System.Drawing.Size(32, 20);
             this.textBox16.TabIndex = 30;
+            this.textBox16.Text = "0";
+            this.toolTip1.SetToolTip(this.textBox16, "Which # President? ");
             // 
             // textBox14
             // 
@@ -286,6 +291,8 @@ namespace PresidentsApplication
             this.textBox14.Name = "textBox14";
             this.textBox14.Size = new System.Drawing.Size(32, 20);
             this.textBox14.TabIndex = 29;
+            this.textBox14.Text = "0";
+            this.toolTip1.SetToolTip(this.textBox14, "Which # President? ");
             // 
             // textBox15
             // 
@@ -293,6 +300,8 @@ namespace PresidentsApplication
             this.textBox15.Name = "textBox15";
             this.textBox15.Size = new System.Drawing.Size(32, 20);
             this.textBox15.TabIndex = 28;
+            this.textBox15.Text = "0";
+            this.toolTip1.SetToolTip(this.textBox15, "Which # President? ");
             // 
             // textBox10
             // 
@@ -300,6 +309,8 @@ namespace PresidentsApplication
             this.textBox10.Name = "textBox10";
             this.textBox10.Size = new System.Drawing.Size(32, 20);
             this.textBox10.TabIndex = 27;
+            this.textBox10.Text = "0";
+            this.toolTip1.SetToolTip(this.textBox10, "Which # President? ");
             // 
             // textBox11
             // 
@@ -307,6 +318,8 @@ namespace PresidentsApplication
             this.textBox11.Name = "textBox11";
             this.textBox11.Size = new System.Drawing.Size(32, 20);
             this.textBox11.TabIndex = 26;
+            this.textBox11.Text = "0";
+            this.toolTip1.SetToolTip(this.textBox11, "Which # President? ");
             // 
             // textBox12
             // 
@@ -314,6 +327,8 @@ namespace PresidentsApplication
             this.textBox12.Name = "textBox12";
             this.textBox12.Size = new System.Drawing.Size(32, 20);
             this.textBox12.TabIndex = 25;
+            this.textBox12.Text = "0";
+            this.toolTip1.SetToolTip(this.textBox12, "Which # President? ");
             // 
             // textBox7
             // 
@@ -321,6 +336,8 @@ namespace PresidentsApplication
             this.textBox7.Name = "textBox7";
             this.textBox7.Size = new System.Drawing.Size(32, 20);
             this.textBox7.TabIndex = 24;
+            this.textBox7.Text = "0";
+            this.toolTip1.SetToolTip(this.textBox7, "Which # President? ");
             // 
             // textBox8
             // 
@@ -328,6 +345,8 @@ namespace PresidentsApplication
             this.textBox8.Name = "textBox8";
             this.textBox8.Size = new System.Drawing.Size(32, 20);
             this.textBox8.TabIndex = 23;
+            this.textBox8.Text = "0";
+            this.toolTip1.SetToolTip(this.textBox8, "Which # President? ");
             // 
             // textBox9
             // 
@@ -335,6 +354,8 @@ namespace PresidentsApplication
             this.textBox9.Name = "textBox9";
             this.textBox9.Size = new System.Drawing.Size(32, 20);
             this.textBox9.TabIndex = 22;
+            this.textBox9.Text = "0";
+            this.toolTip1.SetToolTip(this.textBox9, "Which # President? ");
             // 
             // textBox4
             // 
@@ -342,6 +363,8 @@ namespace PresidentsApplication
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(32, 20);
             this.textBox4.TabIndex = 21;
+            this.textBox4.Text = "0";
+            this.toolTip1.SetToolTip(this.textBox4, "Which # President? ");
             // 
             // textBox5
             // 
@@ -349,6 +372,8 @@ namespace PresidentsApplication
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(32, 20);
             this.textBox5.TabIndex = 20;
+            this.textBox5.Text = "0";
+            this.toolTip1.SetToolTip(this.textBox5, "Which # President? ");
             // 
             // textBox6
             // 
@@ -356,6 +381,8 @@ namespace PresidentsApplication
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(32, 20);
             this.textBox6.TabIndex = 19;
+            this.textBox6.Text = "0";
+            this.toolTip1.SetToolTip(this.textBox6, "Which # President? ");
             // 
             // textBox3
             // 
@@ -363,6 +390,8 @@ namespace PresidentsApplication
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(32, 20);
             this.textBox3.TabIndex = 18;
+            this.textBox3.Text = "0";
+            this.toolTip1.SetToolTip(this.textBox3, "Which # President? ");
             // 
             // textBox2
             // 
@@ -370,6 +399,8 @@ namespace PresidentsApplication
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(32, 20);
             this.textBox2.TabIndex = 17;
+            this.textBox2.Text = "0";
+            this.toolTip1.SetToolTip(this.textBox2, "Which # President? ");
             // 
             // textBox1
             // 
@@ -377,6 +408,8 @@ namespace PresidentsApplication
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(32, 20);
             this.textBox1.TabIndex = 16;
+            this.textBox1.Text = "0";
+            this.toolTip1.SetToolTip(this.textBox1, "Which # President? ");
             // 
             // thomasJeffersonRadioButton
             // 
@@ -781,6 +814,10 @@ namespace PresidentsApplication
             this.TJPictureBox.TabStop = false;
             this.TJPictureBox.Visible = false;
             // 
+            // toolTip1
+            // 
+            this.toolTip1.Tag = "Which # President?";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -881,6 +918,7 @@ namespace PresidentsApplication
         private System.Windows.Forms.PictureBox DDEPictureBox;
         private System.Windows.Forms.PictureBox RRPictureBox;
         private System.Windows.Forms.PictureBox WMKPictureBox;
+        private System.Windows.Forms.ToolTip toolTip1;
     }
 }
 
