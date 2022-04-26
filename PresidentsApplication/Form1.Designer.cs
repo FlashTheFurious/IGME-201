@@ -39,7 +39,7 @@ namespace PresidentsApplication
             this.republicanRadioButton = new System.Windows.Forms.RadioButton();
             this.democratRadioButton = new System.Windows.Forms.RadioButton();
             this.allRadioButton = new System.Windows.Forms.RadioButton();
-            this.pictureBox = new System.Windows.Forms.PictureBox();
+            this.BHPictureBox = new System.Windows.Forms.PictureBox();
             this.textBox13 = new System.Windows.Forms.TextBox();
             this.textBox16 = new System.Windows.Forms.TextBox();
             this.textBox14 = new System.Windows.Forms.TextBox();
@@ -77,13 +77,43 @@ namespace PresidentsApplication
             this.webBrowser1 = new System.Windows.Forms.WebBrowser();
             this.vScrollBar1 = new System.Windows.Forms.VScrollBar();
             this.exitButton = new System.Windows.Forms.Button();
+            this.FDRPictureBox = new System.Windows.Forms.PictureBox();
+            this.WJCPictureBox = new System.Windows.Forms.PictureBox();
+            this.JBPictureBox = new System.Windows.Forms.PictureBox();
+            this.FPPictureBox = new System.Windows.Forms.PictureBox();
+            this.GWBPictureBox = new System.Windows.Forms.PictureBox();
+            this.BOPictureBox = new System.Windows.Forms.PictureBox();
+            this.JFKPictureBox = new System.Windows.Forms.PictureBox();
+            this.WMKPictureBox = new System.Windows.Forms.PictureBox();
+            this.RRPictureBox = new System.Windows.Forms.PictureBox();
+            this.DDEPictureBox = new System.Windows.Forms.PictureBox();
+            this.MVBPictureBox = new System.Windows.Forms.PictureBox();
+            this.GWPictureBox = new System.Windows.Forms.PictureBox();
+            this.JAPictureBox = new System.Windows.Forms.PictureBox();
+            this.TRPictureBox = new System.Windows.Forms.PictureBox();
+            this.TJPictureBox = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
             this.splitContainer1.SuspendLayout();
             this.filterGroupBox.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.BHPictureBox)).BeginInit();
             this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.FDRPictureBox)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.WJCPictureBox)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.JBPictureBox)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.FPPictureBox)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.GWBPictureBox)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.BOPictureBox)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.JFKPictureBox)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.WMKPictureBox)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.RRPictureBox)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.DDEPictureBox)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.MVBPictureBox)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.GWPictureBox)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.JAPictureBox)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.TRPictureBox)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.TJPictureBox)).BeginInit();
             this.SuspendLayout();
             // 
             // timerProgressBar
@@ -100,8 +130,23 @@ namespace PresidentsApplication
             // 
             // splitContainer1.Panel1
             // 
+            this.splitContainer1.Panel1.Controls.Add(this.TJPictureBox);
+            this.splitContainer1.Panel1.Controls.Add(this.TRPictureBox);
+            this.splitContainer1.Panel1.Controls.Add(this.JAPictureBox);
+            this.splitContainer1.Panel1.Controls.Add(this.GWPictureBox);
+            this.splitContainer1.Panel1.Controls.Add(this.MVBPictureBox);
+            this.splitContainer1.Panel1.Controls.Add(this.DDEPictureBox);
+            this.splitContainer1.Panel1.Controls.Add(this.RRPictureBox);
+            this.splitContainer1.Panel1.Controls.Add(this.WMKPictureBox);
+            this.splitContainer1.Panel1.Controls.Add(this.JFKPictureBox);
+            this.splitContainer1.Panel1.Controls.Add(this.BOPictureBox);
+            this.splitContainer1.Panel1.Controls.Add(this.GWBPictureBox);
+            this.splitContainer1.Panel1.Controls.Add(this.FPPictureBox);
+            this.splitContainer1.Panel1.Controls.Add(this.JBPictureBox);
+            this.splitContainer1.Panel1.Controls.Add(this.WJCPictureBox);
+            this.splitContainer1.Panel1.Controls.Add(this.FDRPictureBox);
             this.splitContainer1.Panel1.Controls.Add(this.filterGroupBox);
-            this.splitContainer1.Panel1.Controls.Add(this.pictureBox);
+            this.splitContainer1.Panel1.Controls.Add(this.BHPictureBox);
             this.splitContainer1.Panel1.Controls.Add(this.textBox13);
             this.splitContainer1.Panel1.Controls.Add(this.textBox16);
             this.splitContainer1.Panel1.Controls.Add(this.textBox14);
@@ -209,13 +254,17 @@ namespace PresidentsApplication
             this.allRadioButton.Text = "All";
             this.allRadioButton.UseVisualStyleBackColor = true;
             // 
-            // pictureBox
+            // BHPictureBox
             // 
-            this.pictureBox.Location = new System.Drawing.Point(23, 285);
-            this.pictureBox.Name = "pictureBox";
-            this.pictureBox.Size = new System.Drawing.Size(169, 230);
-            this.pictureBox.TabIndex = 32;
-            this.pictureBox.TabStop = false;
+            this.BHPictureBox.Image = ((System.Drawing.Image)(resources.GetObject("BHPictureBox.Image")));
+            this.BHPictureBox.ImageLocation = "";
+            this.BHPictureBox.Location = new System.Drawing.Point(23, 285);
+            this.BHPictureBox.Name = "BHPictureBox";
+            this.BHPictureBox.Size = new System.Drawing.Size(169, 230);
+            this.BHPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.BHPictureBox.TabIndex = 32;
+            this.BHPictureBox.TabStop = false;
+            this.BHPictureBox.Visible = false;
             // 
             // textBox13
             // 
@@ -336,6 +385,7 @@ namespace PresidentsApplication
             this.thomasJeffersonRadioButton.Name = "thomasJeffersonRadioButton";
             this.thomasJeffersonRadioButton.Size = new System.Drawing.Size(109, 17);
             this.thomasJeffersonRadioButton.TabIndex = 15;
+            this.thomasJeffersonRadioButton.Tag = "demoRepublican";
             this.thomasJeffersonRadioButton.Text = "Thomas Jefferson";
             this.thomasJeffersonRadioButton.UseVisualStyleBackColor = true;
             // 
@@ -346,6 +396,7 @@ namespace PresidentsApplication
             this.theodoreRooseveltRadioButton.Name = "theodoreRooseveltRadioButton";
             this.theodoreRooseveltRadioButton.Size = new System.Drawing.Size(122, 17);
             this.theodoreRooseveltRadioButton.TabIndex = 14;
+            this.theodoreRooseveltRadioButton.Tag = "republican";
             this.theodoreRooseveltRadioButton.Text = "Theodore Roosevelt";
             this.theodoreRooseveltRadioButton.UseVisualStyleBackColor = true;
             // 
@@ -356,6 +407,7 @@ namespace PresidentsApplication
             this.johnAdamsRadioButton.Name = "johnAdamsRadioButton";
             this.johnAdamsRadioButton.Size = new System.Drawing.Size(83, 17);
             this.johnAdamsRadioButton.TabIndex = 13;
+            this.johnAdamsRadioButton.Tag = "federalist";
             this.johnAdamsRadioButton.Text = "John Adams";
             this.johnAdamsRadioButton.UseVisualStyleBackColor = true;
             // 
@@ -366,6 +418,7 @@ namespace PresidentsApplication
             this.georgeWashingtonRadioButton.Name = "georgeWashingtonRadioButton";
             this.georgeWashingtonRadioButton.Size = new System.Drawing.Size(120, 17);
             this.georgeWashingtonRadioButton.TabIndex = 12;
+            this.georgeWashingtonRadioButton.Tag = "federalist";
             this.georgeWashingtonRadioButton.Text = "George Washington";
             this.georgeWashingtonRadioButton.UseVisualStyleBackColor = true;
             // 
@@ -376,6 +429,7 @@ namespace PresidentsApplication
             this.martinVanBurenRadioButton.Name = "martinVanBurenRadioButton";
             this.martinVanBurenRadioButton.Size = new System.Drawing.Size(104, 17);
             this.martinVanBurenRadioButton.TabIndex = 11;
+            this.martinVanBurenRadioButton.Tag = "democrat";
             this.martinVanBurenRadioButton.Text = "Martin VanBuren";
             this.martinVanBurenRadioButton.UseVisualStyleBackColor = true;
             // 
@@ -386,6 +440,7 @@ namespace PresidentsApplication
             this.dwightDEisenhowerRadioButton.Name = "dwightDEisenhowerRadioButton";
             this.dwightDEisenhowerRadioButton.Size = new System.Drawing.Size(130, 17);
             this.dwightDEisenhowerRadioButton.TabIndex = 10;
+            this.dwightDEisenhowerRadioButton.Tag = "republican";
             this.dwightDEisenhowerRadioButton.Text = "Dwight D. Eisenhower";
             this.dwightDEisenhowerRadioButton.UseVisualStyleBackColor = true;
             // 
@@ -396,6 +451,7 @@ namespace PresidentsApplication
             this.ronaldReaganRadioButton.Name = "ronaldReaganRadioButton";
             this.ronaldReaganRadioButton.Size = new System.Drawing.Size(100, 17);
             this.ronaldReaganRadioButton.TabIndex = 9;
+            this.ronaldReaganRadioButton.Tag = "republican";
             this.ronaldReaganRadioButton.Text = "Ronald Reagan";
             this.ronaldReaganRadioButton.UseVisualStyleBackColor = true;
             // 
@@ -406,6 +462,7 @@ namespace PresidentsApplication
             this.williamMcKinleyRadioButton.Name = "williamMcKinleyRadioButton";
             this.williamMcKinleyRadioButton.Size = new System.Drawing.Size(104, 17);
             this.williamMcKinleyRadioButton.TabIndex = 8;
+            this.williamMcKinleyRadioButton.Tag = "republican";
             this.williamMcKinleyRadioButton.Text = "William McKinley";
             this.williamMcKinleyRadioButton.UseVisualStyleBackColor = true;
             // 
@@ -416,6 +473,7 @@ namespace PresidentsApplication
             this.johnFKennedyRadioButton.Name = "johnFKennedyRadioButton";
             this.johnFKennedyRadioButton.Size = new System.Drawing.Size(105, 17);
             this.johnFKennedyRadioButton.TabIndex = 7;
+            this.johnFKennedyRadioButton.Tag = "democrat";
             this.johnFKennedyRadioButton.Text = "John F. Kennedy";
             this.johnFKennedyRadioButton.UseVisualStyleBackColor = true;
             // 
@@ -428,6 +486,7 @@ namespace PresidentsApplication
             this.barackObamaRadioButton.Name = "barackObamaRadioButton";
             this.barackObamaRadioButton.Size = new System.Drawing.Size(96, 17);
             this.barackObamaRadioButton.TabIndex = 6;
+            this.barackObamaRadioButton.Tag = "democrat";
             this.barackObamaRadioButton.Text = "Barack Obama";
             this.barackObamaRadioButton.UseVisualStyleBackColor = true;
             // 
@@ -459,6 +518,7 @@ namespace PresidentsApplication
             this.georgeWBushRadioButton.Name = "georgeWBushRadioButton";
             this.georgeWBushRadioButton.Size = new System.Drawing.Size(104, 17);
             this.georgeWBushRadioButton.TabIndex = 5;
+            this.georgeWBushRadioButton.Tag = "republican";
             this.georgeWBushRadioButton.Text = "George W. Bush";
             this.georgeWBushRadioButton.UseVisualStyleBackColor = true;
             // 
@@ -469,6 +529,7 @@ namespace PresidentsApplication
             this.franklinPierceRadioButton.Name = "franklinPierceRadioButton";
             this.franklinPierceRadioButton.Size = new System.Drawing.Size(95, 17);
             this.franklinPierceRadioButton.TabIndex = 4;
+            this.franklinPierceRadioButton.Tag = "democrat";
             this.franklinPierceRadioButton.Text = "Franklin Pierce";
             this.franklinPierceRadioButton.UseVisualStyleBackColor = true;
             // 
@@ -479,6 +540,7 @@ namespace PresidentsApplication
             this.jamesBuchananRadioButton.Name = "jamesBuchananRadioButton";
             this.jamesBuchananRadioButton.Size = new System.Drawing.Size(107, 17);
             this.jamesBuchananRadioButton.TabIndex = 3;
+            this.jamesBuchananRadioButton.Tag = "democrat";
             this.jamesBuchananRadioButton.Text = "James Buchanan";
             this.jamesBuchananRadioButton.UseVisualStyleBackColor = true;
             // 
@@ -489,6 +551,7 @@ namespace PresidentsApplication
             this.williamJClintonRadioButton.Name = "williamJClintonRadioButton";
             this.williamJClintonRadioButton.Size = new System.Drawing.Size(101, 17);
             this.williamJClintonRadioButton.TabIndex = 2;
+            this.williamJClintonRadioButton.Tag = "democrat";
             this.williamJClintonRadioButton.Text = "William J Clinton";
             this.williamJClintonRadioButton.UseVisualStyleBackColor = true;
             // 
@@ -499,6 +562,7 @@ namespace PresidentsApplication
             this.franklinDRooseveltRadioButton.Name = "franklinDRooseveltRadioButton";
             this.franklinDRooseveltRadioButton.Size = new System.Drawing.Size(127, 17);
             this.franklinDRooseveltRadioButton.TabIndex = 1;
+            this.franklinDRooseveltRadioButton.Tag = "democrat";
             this.franklinDRooseveltRadioButton.Text = "Franklin D. Roosevelt";
             this.franklinDRooseveltRadioButton.UseVisualStyleBackColor = true;
             // 
@@ -513,6 +577,7 @@ namespace PresidentsApplication
             this.benjaminHarrisonRadioButton.Size = new System.Drawing.Size(110, 17);
             this.benjaminHarrisonRadioButton.TabIndex = 0;
             this.benjaminHarrisonRadioButton.TabStop = true;
+            this.benjaminHarrisonRadioButton.Tag = "republican";
             this.benjaminHarrisonRadioButton.Text = "Benjamin Harrison";
             this.benjaminHarrisonRadioButton.UseVisualStyleBackColor = true;
             // 
@@ -551,6 +616,171 @@ namespace PresidentsApplication
             this.exitButton.Text = "Exit";
             this.exitButton.UseVisualStyleBackColor = true;
             // 
+            // FDRPictureBox
+            // 
+            this.FDRPictureBox.Image = ((System.Drawing.Image)(resources.GetObject("FDRPictureBox.Image")));
+            this.FDRPictureBox.Location = new System.Drawing.Point(23, 285);
+            this.FDRPictureBox.Name = "FDRPictureBox";
+            this.FDRPictureBox.Size = new System.Drawing.Size(169, 230);
+            this.FDRPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.FDRPictureBox.TabIndex = 34;
+            this.FDRPictureBox.TabStop = false;
+            this.FDRPictureBox.Visible = false;
+            // 
+            // WJCPictureBox
+            // 
+            this.WJCPictureBox.Image = ((System.Drawing.Image)(resources.GetObject("WJCPictureBox.Image")));
+            this.WJCPictureBox.Location = new System.Drawing.Point(23, 285);
+            this.WJCPictureBox.Name = "WJCPictureBox";
+            this.WJCPictureBox.Size = new System.Drawing.Size(169, 230);
+            this.WJCPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.WJCPictureBox.TabIndex = 35;
+            this.WJCPictureBox.TabStop = false;
+            this.WJCPictureBox.Visible = false;
+            // 
+            // JBPictureBox
+            // 
+            this.JBPictureBox.Image = ((System.Drawing.Image)(resources.GetObject("JBPictureBox.Image")));
+            this.JBPictureBox.Location = new System.Drawing.Point(23, 285);
+            this.JBPictureBox.Name = "JBPictureBox";
+            this.JBPictureBox.Size = new System.Drawing.Size(169, 230);
+            this.JBPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.JBPictureBox.TabIndex = 36;
+            this.JBPictureBox.TabStop = false;
+            this.JBPictureBox.Visible = false;
+            // 
+            // FPPictureBox
+            // 
+            this.FPPictureBox.Image = ((System.Drawing.Image)(resources.GetObject("FPPictureBox.Image")));
+            this.FPPictureBox.Location = new System.Drawing.Point(23, 285);
+            this.FPPictureBox.Name = "FPPictureBox";
+            this.FPPictureBox.Size = new System.Drawing.Size(169, 230);
+            this.FPPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.FPPictureBox.TabIndex = 37;
+            this.FPPictureBox.TabStop = false;
+            this.FPPictureBox.Visible = false;
+            // 
+            // GWBPictureBox
+            // 
+            this.GWBPictureBox.Image = ((System.Drawing.Image)(resources.GetObject("GWBPictureBox.Image")));
+            this.GWBPictureBox.Location = new System.Drawing.Point(23, 285);
+            this.GWBPictureBox.Name = "GWBPictureBox";
+            this.GWBPictureBox.Size = new System.Drawing.Size(169, 230);
+            this.GWBPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.GWBPictureBox.TabIndex = 38;
+            this.GWBPictureBox.TabStop = false;
+            this.GWBPictureBox.Visible = false;
+            // 
+            // BOPictureBox
+            // 
+            this.BOPictureBox.Image = ((System.Drawing.Image)(resources.GetObject("BOPictureBox.Image")));
+            this.BOPictureBox.Location = new System.Drawing.Point(23, 285);
+            this.BOPictureBox.Name = "BOPictureBox";
+            this.BOPictureBox.Size = new System.Drawing.Size(169, 230);
+            this.BOPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.BOPictureBox.TabIndex = 39;
+            this.BOPictureBox.TabStop = false;
+            this.BOPictureBox.Visible = false;
+            // 
+            // JFKPictureBox
+            // 
+            this.JFKPictureBox.Image = ((System.Drawing.Image)(resources.GetObject("JFKPictureBox.Image")));
+            this.JFKPictureBox.Location = new System.Drawing.Point(23, 285);
+            this.JFKPictureBox.Name = "JFKPictureBox";
+            this.JFKPictureBox.Size = new System.Drawing.Size(169, 230);
+            this.JFKPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.JFKPictureBox.TabIndex = 40;
+            this.JFKPictureBox.TabStop = false;
+            this.JFKPictureBox.Visible = false;
+            // 
+            // WMKPictureBox
+            // 
+            this.WMKPictureBox.Image = ((System.Drawing.Image)(resources.GetObject("WMKPictureBox.Image")));
+            this.WMKPictureBox.Location = new System.Drawing.Point(23, 285);
+            this.WMKPictureBox.Name = "WMKPictureBox";
+            this.WMKPictureBox.Size = new System.Drawing.Size(169, 230);
+            this.WMKPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.WMKPictureBox.TabIndex = 41;
+            this.WMKPictureBox.TabStop = false;
+            this.WMKPictureBox.Visible = false;
+            // 
+            // RRPictureBox
+            // 
+            this.RRPictureBox.Image = ((System.Drawing.Image)(resources.GetObject("RRPictureBox.Image")));
+            this.RRPictureBox.Location = new System.Drawing.Point(23, 285);
+            this.RRPictureBox.Name = "RRPictureBox";
+            this.RRPictureBox.Size = new System.Drawing.Size(169, 230);
+            this.RRPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.RRPictureBox.TabIndex = 42;
+            this.RRPictureBox.TabStop = false;
+            this.RRPictureBox.Visible = false;
+            // 
+            // DDEPictureBox
+            // 
+            this.DDEPictureBox.Image = ((System.Drawing.Image)(resources.GetObject("DDEPictureBox.Image")));
+            this.DDEPictureBox.Location = new System.Drawing.Point(23, 285);
+            this.DDEPictureBox.Name = "DDEPictureBox";
+            this.DDEPictureBox.Size = new System.Drawing.Size(169, 230);
+            this.DDEPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.DDEPictureBox.TabIndex = 43;
+            this.DDEPictureBox.TabStop = false;
+            this.DDEPictureBox.Visible = false;
+            // 
+            // MVBPictureBox
+            // 
+            this.MVBPictureBox.Image = ((System.Drawing.Image)(resources.GetObject("MVBPictureBox.Image")));
+            this.MVBPictureBox.Location = new System.Drawing.Point(23, 285);
+            this.MVBPictureBox.Name = "MVBPictureBox";
+            this.MVBPictureBox.Size = new System.Drawing.Size(169, 230);
+            this.MVBPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.MVBPictureBox.TabIndex = 44;
+            this.MVBPictureBox.TabStop = false;
+            this.MVBPictureBox.Visible = false;
+            // 
+            // GWPictureBox
+            // 
+            this.GWPictureBox.Image = ((System.Drawing.Image)(resources.GetObject("GWPictureBox.Image")));
+            this.GWPictureBox.Location = new System.Drawing.Point(23, 285);
+            this.GWPictureBox.Name = "GWPictureBox";
+            this.GWPictureBox.Size = new System.Drawing.Size(169, 230);
+            this.GWPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.GWPictureBox.TabIndex = 45;
+            this.GWPictureBox.TabStop = false;
+            this.GWPictureBox.Visible = false;
+            // 
+            // JAPictureBox
+            // 
+            this.JAPictureBox.Image = ((System.Drawing.Image)(resources.GetObject("JAPictureBox.Image")));
+            this.JAPictureBox.Location = new System.Drawing.Point(23, 285);
+            this.JAPictureBox.Name = "JAPictureBox";
+            this.JAPictureBox.Size = new System.Drawing.Size(169, 230);
+            this.JAPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.JAPictureBox.TabIndex = 46;
+            this.JAPictureBox.TabStop = false;
+            this.JAPictureBox.Visible = false;
+            // 
+            // TRPictureBox
+            // 
+            this.TRPictureBox.Image = ((System.Drawing.Image)(resources.GetObject("TRPictureBox.Image")));
+            this.TRPictureBox.Location = new System.Drawing.Point(23, 285);
+            this.TRPictureBox.Name = "TRPictureBox";
+            this.TRPictureBox.Size = new System.Drawing.Size(169, 230);
+            this.TRPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.TRPictureBox.TabIndex = 47;
+            this.TRPictureBox.TabStop = false;
+            this.TRPictureBox.Visible = false;
+            // 
+            // TJPictureBox
+            // 
+            this.TJPictureBox.Image = ((System.Drawing.Image)(resources.GetObject("TJPictureBox.Image")));
+            this.TJPictureBox.Location = new System.Drawing.Point(23, 285);
+            this.TJPictureBox.Name = "TJPictureBox";
+            this.TJPictureBox.Size = new System.Drawing.Size(169, 230);
+            this.TJPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.TJPictureBox.TabIndex = 48;
+            this.TJPictureBox.TabStop = false;
+            this.TJPictureBox.Visible = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -567,8 +797,23 @@ namespace PresidentsApplication
             this.splitContainer1.ResumeLayout(false);
             this.filterGroupBox.ResumeLayout(false);
             this.filterGroupBox.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.BHPictureBox)).EndInit();
             this.groupBox1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.FDRPictureBox)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.WJCPictureBox)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.JBPictureBox)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.FPPictureBox)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.GWBPictureBox)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.BOPictureBox)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.JFKPictureBox)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.WMKPictureBox)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.RRPictureBox)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.DDEPictureBox)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.MVBPictureBox)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.GWPictureBox)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.JAPictureBox)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.TRPictureBox)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.TJPictureBox)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -583,7 +828,7 @@ namespace PresidentsApplication
         private System.Windows.Forms.RadioButton republicanRadioButton;
         private System.Windows.Forms.RadioButton democratRadioButton;
         private System.Windows.Forms.RadioButton allRadioButton;
-        private System.Windows.Forms.PictureBox pictureBox;
+        private System.Windows.Forms.PictureBox BHPictureBox;
         private System.Windows.Forms.TextBox textBox13;
         private System.Windows.Forms.TextBox textBox16;
         private System.Windows.Forms.TextBox textBox14;
@@ -621,6 +866,21 @@ namespace PresidentsApplication
         private System.Windows.Forms.WebBrowser webBrowser1;
         private System.Windows.Forms.VScrollBar vScrollBar1;
         private System.Windows.Forms.Button exitButton;
+        private System.Windows.Forms.PictureBox JFKPictureBox;
+        private System.Windows.Forms.PictureBox BOPictureBox;
+        private System.Windows.Forms.PictureBox GWBPictureBox;
+        private System.Windows.Forms.PictureBox FPPictureBox;
+        private System.Windows.Forms.PictureBox JBPictureBox;
+        private System.Windows.Forms.PictureBox WJCPictureBox;
+        private System.Windows.Forms.PictureBox FDRPictureBox;
+        private System.Windows.Forms.PictureBox TJPictureBox;
+        private System.Windows.Forms.PictureBox TRPictureBox;
+        private System.Windows.Forms.PictureBox JAPictureBox;
+        private System.Windows.Forms.PictureBox GWPictureBox;
+        private System.Windows.Forms.PictureBox MVBPictureBox;
+        private System.Windows.Forms.PictureBox DDEPictureBox;
+        private System.Windows.Forms.PictureBox RRPictureBox;
+        private System.Windows.Forms.PictureBox WMKPictureBox;
     }
 }
 
