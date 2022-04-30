@@ -1,0 +1,10 @@
+C:\Users\tarna\source\repos\WinFormsMathQuiz\bin\Debug\WinFormsMathQuiz.exe.config
+C:\Users\tarna\source\repos\WinFormsMathQuiz\bin\Debug\WinFormsMathQuiz.exe
+C:\Users\tarna\source\repos\WinFormsMathQuiz\bin\Debug\WinFormsMathQuiz.pdb
+C:\Users\tarna\source\repos\WinFormsMathQuiz\obj\Debug\WinFormsMathQuiz.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\WinFormsMathQuiz\obj\Debug\WinFormsMathQuiz.Form1.resources
+C:\Users\tarna\source\repos\WinFormsMathQuiz\obj\Debug\WinFormsMathQuiz.Properties.Resources.resources
+C:\Users\tarna\source\repos\WinFormsMathQuiz\obj\Debug\WinFormsMathQuiz.csproj.GenerateResource.cache
+C:\Users\tarna\source\repos\WinFormsMathQuiz\obj\Debug\WinFormsMathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\WinFormsMathQuiz\obj\Debug\WinFormsMathQuiz.exe
+C:\Users\tarna\source\repos\WinFormsMathQuiz\obj\Debug\WinFormsMathQuiz.pdb
