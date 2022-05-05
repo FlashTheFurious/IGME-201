@@ -1,0 +1,11 @@
+C:\Users\tarna\source\repos\HotTubProject\obj\Debug\HotTubProject.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\HotTubProject\obj\Debug\HotTubProject.Form1.resources
+C:\Users\tarna\source\repos\HotTubProject\obj\Debug\HotTubProject.Form2.resources
+C:\Users\tarna\source\repos\HotTubProject\obj\Debug\HotTubProject.Properties.Resources.resources
+C:\Users\tarna\source\repos\HotTubProject\obj\Debug\HotTubProject.csproj.GenerateResource.cache
+C:\Users\tarna\source\repos\HotTubProject\obj\Debug\HotTubProject.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\HotTubProject\bin\Debug\HotTubProject.exe.config
+C:\Users\tarna\source\repos\HotTubProject\bin\Debug\HotTubProject.exe
+C:\Users\tarna\source\repos\HotTubProject\bin\Debug\HotTubProject.pdb
+C:\Users\tarna\source\repos\HotTubProject\obj\Debug\HotTubProject.exe
+C:\Users\tarna\source\repos\HotTubProject\obj\Debug\HotTubProject.pdb
